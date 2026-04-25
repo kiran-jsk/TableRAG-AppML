@@ -6,7 +6,7 @@
 **Date:** April 2026
 
 **Reproduced Paper:**
-Zheng et al., "TableRAG: A Retrieval Augmented Generation Framework for Heterogeneous Document Reasoning," arXiv:2025. GitHub: https://github.com/yxh-y/TableRAG
+Zheng et al., "TableRAG: A Retrieval Augmented Generation Framework for Heterogeneous Document Reasoning," arXiv:2025. GitHub: https://github.com/kiran-jsk/TableRAG-AppML
 
 ---
 

@@ -7,7 +7,7 @@
 **Date:** April 2026
 
 **Reproduced Paper:**
-Zheng et al., "TableRAG: A Retrieval Augmented Generation Framework for Heterogeneous Document Reasoning," arXiv:2501.XXXXX, 2025. GitHub: https://github.com/yxh-y/TableRAG
+Zheng et al., "TableRAG: A Retrieval Augmented Generation Framework for Heterogeneous Document Reasoning," arXiv:2501.XXXXX, 2025. GitHub: https://github.com/kiran-jsk/TableRAG-AppML
 
 ---
 
@@ -494,7 +494,7 @@ contributions made as part of this course project.
 
 - *TableRAG framework, codebase, and paper:* Zheng et al. [1]. The core algorithm,
   NL2SQL retrieval pipeline, offline ingestion scripts, and online inference code are
-  from the TableRAG repository at https://github.com/yxh-y/TableRAG. We did not modify
+  from the TableRAG repository at https://github.com/kiran-jsk/TableRAG-AppML. We did not modify
   the core algorithm.
 - *HybridQA dataset:* Chen et al. [2]. The 3,466 dev questions used in all experiments
   are from the HybridQA benchmark; we used the pre-processed dev split included in the
@@ -532,7 +532,7 @@ contributions made as part of this course project.
 
 [1] Y. Zheng et al., "TableRAG: A Retrieval Augmented Generation Framework for
 Heterogeneous Document Reasoning," arXiv preprint arXiv:2501.XXXXX, 2025. [Online].
-Available: https://github.com/yxh-y/TableRAG
+Available: https://github.com/kiran-jsk/TableRAG-AppML
 
 [2] W. Chen, H. Zha, Z. Chen, W. Xiong, H. Wang, and W. Wang, "HybridQA: A Dataset of
 Multi-Hop Question Answering over Tabular and Textual Data," in *Findings of EMNLP*,
